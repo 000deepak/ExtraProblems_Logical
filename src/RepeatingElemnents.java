@@ -3,14 +3,13 @@ import java.util.Scanner;
 
 //step 1....match  and count
 
-//step 2....if count >1
-// check if already filtered
-//if yes  ,BREAK con move to next element
-//if not , add to filtered array
-//increase index & BREAK;
+//step 2.....if count >1
+// ----------check if already filtered
+//-----------if yes  ,BREAK con move to next element
+//-----------if not , add to filtered array
+//-----------increase index & BREAK;
 
 //step 3...repeat and iterate for other elements
-
 
 //-------------------------------------IsAlreadyFiltered
 //itereate through string
@@ -27,18 +26,13 @@ public class RepeatingElemnents {
 //-----------------------------------------------------------------------------------------------
         for (int i = 0; i < array.length; i++) {
             int count = 0;
-
-
             for (int j = 0; j < array.length; j++) {
-
                 if (array[i] == array[j]) {                          //-----------match
-                    count++;
-                }
+                    count++;}
                 if (count > 1) {                                     //----------checking element is repeating
                     if (!isAlreadyFiltered(filterd, array[i])) {     // checking if already filtered
                         filterd[index] = String.valueOf(array[i]);   //adding to filtered array
-                        index++;
-                    }
+                        index++;}
                     break;
                 }
 
