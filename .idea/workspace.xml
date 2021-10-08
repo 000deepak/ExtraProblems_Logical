@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="" />
+    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EvenOddBitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOddWithoutModuli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/PNB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/PNB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/SBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,23 +47,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder (3)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PerfectSquare20">
-    <configuration name="Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction" />
+  <component name="RunManager" selected="Application.EvenOddBitwise">
+    <configuration name="EvenOddBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddBitwise" />
       <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSquare20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectSquare20" />
+    <configuration name="EvenOddWithoutModuli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddWithoutModuli" />
       <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockReport_UsingGetSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StockReport_UsingGetSet" />
+    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface" />
+      <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,25 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Day11.random" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TicTacToe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe1" />
+      <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectSquare20" />
+        <item itemvalue="Application.EvenOddBitwise" />
+        <item itemvalue="Application.EvenOddWithoutModuli" />
         <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.random" />
-        <item itemvalue="Application.Abstraction" />
-        <item itemvalue="Application.StockReport_UsingGetSet" />
+        <item itemvalue="Application.TicTacToe1" />
+        <item itemvalue="Application.Interface" />
       </list>
     </recent_temporary>
   </component>
@@ -108,5 +115,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interface.java</url>
+          <line>2</line>
+          <properties class="Interface" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
