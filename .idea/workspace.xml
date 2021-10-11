@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EvenOddBitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenOddWithoutModuli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/Abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/PNB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/PNB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/SBI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction.java" afterDir="false" />
-    </list>
+    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +33,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder (3)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Address book" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.EvenOddBitwise">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="EvenOddBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvenOddBitwise" />
       <module name="MyPractice" />
@@ -85,9 +74,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOddBitwise" />
-        <item itemvalue="Application.EvenOddWithoutModuli" />
         <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.EvenOddWithoutModuli" />
+        <item itemvalue="Application.EvenOddBitwise" />
         <item itemvalue="Application.TicTacToe1" />
         <item itemvalue="Application.Interface" />
       </list>

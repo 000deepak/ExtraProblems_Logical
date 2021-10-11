@@ -13,7 +13,7 @@ public class EvenOddBitwise {
     public static void main(String[] args) {
         System.out.println("enter no");
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        long n = sc.nextLong();
 
         if((n&1)==0)
             System.out.println("even no");
