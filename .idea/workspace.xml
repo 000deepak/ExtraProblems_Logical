@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="" />
+    <list default="true" id="c67e5cc9-b4af-4e01-a179-febeea1cb8bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Spiral2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyPractice/EvenOddWithoutModuli.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyPractice/EvenOddWithoutModuli.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +37,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Address book" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ALL" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="EvenOddBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenOddBitwise" />
-      <module name="MyPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Spiral2D">
     <configuration name="EvenOddWithoutModuli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvenOddWithoutModuli" />
       <module name="MyPractice" />
@@ -51,8 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface" />
+    <configuration name="Spiral2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spiral2D" />
+      <module name="MyPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
       <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToe1" />
+    <configuration name="TicTacToe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe2" />
       <module name="MyPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spiral2D" />
+        <item itemvalue="Application.TicTacToe2" />
+        <item itemvalue="Application.Stack" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.EvenOddWithoutModuli" />
-        <item itemvalue="Application.EvenOddBitwise" />
-        <item itemvalue="Application.TicTacToe1" />
-        <item itemvalue="Application.Interface" />
       </list>
     </recent_temporary>
   </component>
